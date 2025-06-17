@@ -1,0 +1,85 @@
+.amandata{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+gap: 35px;
+}
+.aman_img{
+margin-top: 80px;
+    width: 150px;
+    height: 150px;
+    border-radius: 110px;
+    border: 5px solid pink; 
+    background-color:linear-gradient(20deg,rgb(201, 15, 170),red,yellow);
+}
+.amandata h1{
+    font-size: 28px;
+
+    text-align: center;
+}
+.aman_button{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    font-size: 24px;
+    font-weight: 500;
+}
+.aman_contact{
+    padding: 25px 75px;
+    border-radius:35px;
+    background: linear-gradient(30deg,rgb(130, 11, 106),red,yellow);
+    font-size: 22px;
+    cursor: pointer;
+    color: white;
+    border: 2px white solid;
+/* transition: (0.5s); */
+}
+.aman_contact_anchor{
+    text-decoration: none;
+    color: white;
+}
+.aman_resume{
+     padding: 25px 75px;
+    border-radius:35px;
+    font-size: 22px;
+    border: 2px solid white;
+       cursor: pointer;
+       background: linear-gradient(30deg,rgb(130, 11, 106),red,yellow);
+}
+.aman_contact:hover{
+border-color: blueviolet;
+}
+.aman_resume:hover{
+border-color: blueviolet;
+}
+@media(max-width:768px){
+    .amandata h1{
+    font-size: 16px;
+    text-align: center;
+}
+   .aman_button{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 18px;
+    font-weight: 100;
+}
+.aman_contact{
+    padding: 15px 35px;
+    border-radius:35px;
+    background: linear-gradient(30deg,rgb(130, 11, 106),red,yellow);
+    font-size: 22px;
+    cursor: pointer;
+    color: white;
+    border: 2px white solid;
+/* transition: (0.5s); */
+}
+.aman_resume{
+     padding: 15px 35px;
+    border-radius:35px;
+    font-size: 22px;
+    border: 2px solid white;
+       cursor: pointer;
+       background: linear-gradient(30deg,rgb(130, 11, 106),red,yellow);
+}
+}

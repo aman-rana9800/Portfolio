@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 493 493">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: url(#linear-gradient-2);
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        stroke: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: #fff;
+        font-family: Algerian, Algerian;
+        font-size: 222.77px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0" y1="246.5" x2="493" y2="246.5" gradientUnits="userSpaceOnUse">
+      <stop offset=".59" stop-color="#fff"/>
+      <stop offset=".64" stop-color="#fafafa"/>
+      <stop offset=".69" stop-color="#ededed"/>
+      <stop offset=".74" stop-color="#d6d6d6"/>
+      <stop offset=".79" stop-color="#b7b7b7"/>
+      <stop offset=".85" stop-color="#8f8f8f"/>
+      <stop offset=".91" stop-color="#5e5e5e"/>
+      <stop offset=".97" stop-color="#252525"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="35" y1="246.5" x2="458" y2="246.5" gradientUnits="userSpaceOnUse">
+      <stop offset=".59" stop-color="#fff"/>
+      <stop offset=".64" stop-color="#fafafa"/>
+      <stop offset=".69" stop-color="#ededed"/>
+      <stop offset=".74" stop-color="#d6d6d6"/>
+      <stop offset=".79" stop-color="#b7b7b7"/>
+      <stop offset=".85" stop-color="#8f8f8f"/>
+      <stop offset=".91" stop-color="#5e5e5e"/>
+      <stop offset=".97" stop-color="#252525"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+  </defs>
+  <text class="cls-3" transform="translate(77.17 254.81)"><tspan x="0" y="0">A</tspan></text>
+  <text class="cls-3" transform="translate(234.17 359.81)"><tspan x="0" y="0">R</tspan></text>
+  <circle class="cls-2" cx="246.5" cy="246.5" r="244.5"/>
+  <circle class="cls-1" cx="246.5" cy="246.5" r="209.5"/>
+</svg>

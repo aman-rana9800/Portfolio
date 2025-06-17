@@ -1,0 +1,62 @@
+[
+    {
+        "s_no":"01",
+        "s_name":"Web desing",
+        "s_desc":"web devlopment is the process of building, programing....."
+    },
+    {
+        "s_no":"02",
+        "s_name":"Graphic desing",
+        "s_desc":"Graphic desing is the process of building, Graphic desing....."
+    },
+    {
+        "s_no":"03",
+        "s_name":"process analysis",
+        "s_desc":"process analysis is the process of building, programing....."
+    },
+    {
+        "s_no":"04",
+        "s_name":"Multitasking",
+        "s_desc":"Create a professional free website template. Responsive, fully......"
+    },
+    {
+        "s_no":"05",
+        "s_name":"React js",
+        "s_desc":"React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[5][6] that aims to make building user interfaces......"
+    },
+    {
+        "s_no":"06",
+        "s_name":"Javascript",
+        "s_desc":"JavaScript, often abbreviated as JS, is a programming language and core technology of the World Wide Web, alongside HTML and CSS. Ninety-nine......"
+    },
+    {
+        "s_no":"07",
+        "s_name":"Bootstrap framework",
+        "s_desc":"Bootstrap is an HTML, CSS and JS library that focuses on simplifying the development of informative......"
+    },
+    {
+        "s_no":"08",
+        "s_name":"Css",
+        "s_desc":"Cascading Style Sheets is a style sheet language used for specifying the presentation and styling......"
+    },
+    {
+        "s_no":"09",
+        "s_name":"Html",
+        "s_desc":"Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser......."
+    },
+    {
+        "s_no":"10",
+        "s_name":"Jquery",
+        "s_desc":"A query in web technology refers to a request for information, typically from a database or a search engine. It can take various ......"
+    },
+    {
+        "s_no":"11",
+        "s_name":"Xml",
+        "s_desc":"A query in web technology refers to a request for information, typically from a database or a search engine. It can take various forms......"
+    },
+    {
+        "s_no":"12",
+        "s_name":"epub",
+        "s_desc":"EPUB (short for electronic publication) is a popular e-book file format, often used for digital books and other related content. It's ......"
+    }
+]
