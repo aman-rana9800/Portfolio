@@ -2,7 +2,7 @@ import React from 'react'
 import './Contact.css'
 import phone from'../../assets/phone.svg'
 import email from'../../assets/email.svg'
-import location from'../../assets/location.svg'
+import location from'../../assets/Location.svg'
 
 const Contact = () => {
   const onSubmit = async (event) => {
