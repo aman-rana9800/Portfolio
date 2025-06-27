@@ -112,7 +112,7 @@
     display: grid;
     grid-template-columns: 1fr;
     gap: 150px;    
-     margin-left: 50px;
+    margin-left: 150px;
 }
 .left_section h1{
     font-size: 40px;
