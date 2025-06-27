@@ -115,6 +115,18 @@
     margin-left: 150px;
     align-items: center;
 }
+
+.left_section{
+    align-items: center;
+}
+.contact_section p{
+    max-width: 150px;
+    align-items: center;
+    color: white;
+    font-size: 15px;
+    line-height: 31px;
+
+}
 .left_section h1{
     font-size: 40px;
     font-weight: 400;
