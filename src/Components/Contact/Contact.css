@@ -108,6 +108,23 @@
     font-size: 400;
    
 }
+.left_section h1{
+    font-size: 40px;
+    font-weight: 300;
+    background: linear-gradient(270deg,#df8908 80%,#b415ff 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.contact_section p{
+    max-width: 50px;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    line-height: 30px;
+
+}
+
 .contact_section{
     display: grid;
     grid-template-columns: 1fr;
