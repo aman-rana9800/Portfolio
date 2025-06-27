@@ -125,7 +125,7 @@ font-weight: 400;
 .about_achievement p{
     font-size: 12px;
     font-weight: 200;
-    align-items: center;
+    text-align: center;
 }
 
 }
