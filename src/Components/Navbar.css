@@ -59,6 +59,7 @@
         display: block;
         position: fixed;
         right: 30px;
+        width: 10px;
     }
     .close_menu_logo{
         display: block;
