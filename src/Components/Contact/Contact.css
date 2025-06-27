@@ -101,13 +101,12 @@
  }
  @media(max-width:768px)
  {
-    .contact{
-    margin: 180px 170px;
-}
+  
 .contact_title h1{
     padding: 0px 30px;
     font-size: 40px;
     font-size: 400;
+    margin-left: 50px;
 }
 .contact_section{
     display: grid;
