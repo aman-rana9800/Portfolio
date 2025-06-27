@@ -55,7 +55,7 @@ border-radius: 10px;
 }
 .mywork_container{
     display: grid;
-   grid-template-columns: 1fr 1fr;
+   grid-template-columns: 1fr;
     gap: 80px;
 }
 .mywork_container img{
