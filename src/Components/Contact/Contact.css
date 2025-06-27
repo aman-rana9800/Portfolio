@@ -128,7 +128,7 @@
     display: grid;
     grid-template-columns: 1fr;
     gap: 150px;    
-    margin-left: 150px;
+    
     
 }
 .right_section label{
