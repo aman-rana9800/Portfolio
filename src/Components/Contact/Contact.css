@@ -106,13 +106,13 @@
     padding: 0px 30px;
     font-size: 40px;
     font-size: 400;
-   align-items: center;
+   
 }
 .contact_section{
     display: grid;
     grid-template-columns: 1fr;
     gap: 150px;    
     margin-left: 150px;
-    align-items: center;
+    
 }
 }
