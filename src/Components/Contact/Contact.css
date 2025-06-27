@@ -115,16 +115,7 @@
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-}
-.contact_section p{
-    max-width: 400px;
-    text-align: center;
-    color: white;
-    font-size: 14px;
-    line-height: 30px;
-
-}
-
+ }
 .contact_section{
     display: grid;
     grid-template-columns: 1fr;
