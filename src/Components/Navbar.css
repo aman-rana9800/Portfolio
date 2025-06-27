@@ -59,15 +59,13 @@
         display: block;
         position: fixed;
         right: 30px;
-        width: 1px;
-        height: 1px;
-    }
+        }
     .close_menu_logo{
         display: block;
         position: relative;
         top: 30px;
-        width: 40px;
-        height: 40px;
+        width: 10px;
+        height: 10px;
         left: 290px;
     }
     .nav-menu{
