@@ -60,6 +60,7 @@
         position: fixed;
         right: 30px;
         width: 10px;
+        height: 10px;
     }
     .close_menu_logo{
         display: block;
