@@ -117,7 +117,7 @@
     -webkit-text-fill-color: transparent;
 }
 .contact_section p{
-    max-width: 400px;
+    max-width: 350px;
     color: white;
     font-size: 14px;
     line-height: 30px;
@@ -131,4 +131,42 @@
     margin-left: 150px;
     
 }
+.right_section label{
+    color: white;
+    font-size: 17px;
+    font-weight: 400;
+}
+.right_section input{
+    border: none;   
+    width: 350px;
+    height: 40px;
+    padding-left: 17px;
+    border-radius: 4px;
+    background-color: #32323c;
+    color: white;
+  font-size: 17px;
+
+}
+.right_section textarea{
+   border: none;   
+    width: 350px;
+    height: 70px;
+    padding:8px 8px;
+    border-radius: 4px;
+    background-color: #32323c;
+    color: white;
+  font-size: 17px;
+ }
+ .contact_submit{
+ border: none;
+ color: white;
+ border-radius: 50px;
+ background: linear-gradient(270deg, #df8908 10%,#b415ff 120%);   
+ font-size: 15px;
+ font-weight: 400;
+ padding: 18px 50px;
+ margin-bottom: 50px;
+ cursor: pointer;
+ transition: 1.5s;
+ }
 }
