@@ -61,8 +61,8 @@ border-color: blueviolet;
     margin-top: 80px;
     width: 150px;
     height: 150px;
-     border-radius: 0px;
-    border: 0px solid blueviolet;
+     border-radius: 110px;
+    border: 8px solid rgb(226, 102, 19);
 }
    .aman_button{
     display: flex;
