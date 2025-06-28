@@ -95,11 +95,11 @@ max-width:350px;
     display: flex;
     flex-direction:column;
     font-size: 17px;
+    max-width: 200px;
   } 
 .footer_bottom_right{
     display: flex;
     flex-direction: column;
     gap: 0px;
-    max-width: 200px;
 }
 }
