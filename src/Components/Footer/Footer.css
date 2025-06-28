@@ -87,8 +87,9 @@ background-clip: text;
 -webkit-text-fill-color: transparent;
 }
 .footer_top_left p{
-font-size: 14px;
+font-size: 17px;
 align-items: center;
+max-width:350px;
 }
 .footer_bottom{
     display: flex;
