@@ -70,7 +70,8 @@ max-width: 500px;
     .footer{
     display: grid;
     align-items: center;
-margin-left: 10px;}
+
+}
 .footer_top{
     margin-left: 0px;
     padding: 0px;
