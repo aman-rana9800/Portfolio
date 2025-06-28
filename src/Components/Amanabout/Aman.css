@@ -61,8 +61,8 @@ border-color: blueviolet;
     margin-top: 80px;
     width: 150px;
     height: 150px;
-     border-radius: 0px;
-    border: 5px solid ;
+     border-radius: 110px;
+    border: 5px solid transparent;
     border-image:linear-gradient(30deg,rgb(130, 11, 106),red,yellow);
     border-image-slice: 1;
 }
