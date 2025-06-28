@@ -89,7 +89,7 @@ background-clip: text;
 .footer_top_left p{
 font-size: 17px;
 align-items: center;
-max-width:350px;
+
 }
 .footer_email{
     display: flex;
