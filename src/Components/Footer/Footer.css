@@ -106,7 +106,7 @@ align-items: center;
     background: transparent;
     font-size: 15px;
     color: white;
-    max-width: 100px;
+    /* max-width: 100px; */
 }
 .footer_button{
     font-size: 15px;
@@ -117,7 +117,7 @@ align-items: center;
     background: linear-gradient(270deg,#df8908 ,#B415ff);
     color: white;
     cursor: pointer;
-    max-width: 300px;
+    /* max-width: 300px; */
 }
 
 .footer_bottom{
